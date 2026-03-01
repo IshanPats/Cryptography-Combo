@@ -85,7 +85,7 @@ Technologies Used
 9.	Modular Design
 10.	Modular Arithmetic
 
-▶ How the Program Works
+How the Program Works
 When executed, the program displays:
 Select Cryptographic Method
 1. RSA
@@ -98,7 +98,7 @@ The selected algorithm performs encryption/decryption and displays the result.
 
 Running the Project
 Clone the Repository
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/IshanPats/Cryptography-Combo.git
 
 Compile the Program
 g++ main.cpp -o cryptography
